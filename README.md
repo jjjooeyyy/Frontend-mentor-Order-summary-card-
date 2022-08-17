@@ -15,7 +15,7 @@ Users should be able to:
 ![](/images/Screenshot%202022-08-17%20at%2023.24.51.png)
 
 ### Links
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://order-summary-card-frontend-mentor.netlify.app/)
 
 
 ### Built with
