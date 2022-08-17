@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/Screenshot%202022-08-17%20at%2023.21.42.png)
+![](./images/Screenshot%202022-08-17%20at%2023.21.42.png)
 
 ### Links
 - [Live Site URL](https://your-live-site-url.com)
