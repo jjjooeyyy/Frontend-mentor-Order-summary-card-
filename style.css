@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+body {
+    background: url('/images/pattern-background-mobile.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card {
+    width: 375px;
+    border-radius: 10px;
+   margin: 20% 30% 20% 40%;
+    background-color: white;
+    border: none;
+}
+
+.class-img-top {
+    border-radius: 10px 10px 0 0;
+}
+
+.card-title {
+    color: hsl(223, 47%, 23%);
+    font-size: 30px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.card-text {
+    color: hsl(224, 23%, 55%);
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.plan-description {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem;
+    background-color:hsl(225, 100%, 98%) ;
+    border-radius: 8px;
+}
+
+.icon {
+width: 25%;
+height: 2%;
+padding: 5%;
+}
+
+.plan {
+   display: flex;
+   align-self: center;
+   color: hsl(224, 23%, 55%);
+   font-family: 'Red Hat Display', sans-serif;
+}
+
+a {
+cursor: pointer;
+font-family: 'Red Hat Display', sans-serif;
+font-size: 16px;
+}
+
+.change {
+position: absolute;
+right: 10%;
+top: 65%;
+color:hsl(245, 75%, 52%);
+}
+
+.change:hover{
+color: hsl(245, 69%, 71%); 
+}
+
+span {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    color: hsl(223, 47%, 23%);
+}
+
+.btn {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 3%;
+    font-weight: 700;
+}
+
+.btn:hover {
+    background-color: hsl(245, 69%, 71%); 
+    border: none;
+    color: white;
+    font-weight: 700;
+}
+
+.cancel {
+    color: hsl(224, 23%, 55%);
+    cursor: pointer;
+    padding: 5% 35% 0;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+}
+
+.cancel:hover {
+    color: hsl(223, 47%, 23%);
+}
+
